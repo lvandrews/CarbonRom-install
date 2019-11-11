@@ -36,7 +36,7 @@ Follow steps here: https://appuals.com/root-motorola-moto-g5-g5-plus/
   10) Reboot system. My phone went to splash screen, then boot screen for a few seconds, then restarted again. Splash again, then boot screen for quite a while. Be patient! When phone finally wakes up, setup system.  
 
 **Step 6: Install old apps and update important things like TWRP**  
-Allow all apps to automatically install first (this will take time). Meanwhile, you can fine tune your customizations (for me, wallpaper was the same as was home screen configuration and widgets) and check your access to your network with the info you scribbled down in step 1. When everything is settled down, update TWRP and reboot system.  Check Magisck through the Magisck Manager app that it is the latest version.   
+Allow all apps to automatically install first (this will take time). Meanwhile, you can fine tune your customizations (for me, wallpaper was the same as was home screen configuration and widgets) and check your access to your network with the info you scribbled down in step 1 (my network was intact, but I did have to select the correct APN). When everything is settled down, update TWRP and reboot system.  Check Magisck through the Magisck Manager app that it is the latest version.   
 
 **Step 7: Restore your messages and contacts with SuperBackup**  
 
