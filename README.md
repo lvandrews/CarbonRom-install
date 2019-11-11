@@ -39,5 +39,6 @@ Follow steps here: https://appuals.com/root-motorola-moto-g5-g5-plus/
 Allow all apps to automatically install first (this will take time). Meanwhile, you can fine tune your customizations (for me, wallpaper was the same as was home screen configuration and widgets) and check your access to your network with the info you scribbled down in step 1 (my network was intact, but I did have to select the correct APN). When everything is settled down, update TWRP and reboot system.  Check Magisck through the Magisck Manager app that it is the latest version.   
 
 **Step 7: Restore your messages and contacts with SuperBackup**  
+Here's where I ran into problems. Some of the files on my SD card have a zero byte file size. This includes my backups I made just before the installation. The last time google updated my information was months ago so now I have a bunch of old conversations in my messages app. Tried reflashing the ROM over over everything which worked fine, but file size issue is unresolved. Also discovered the camera app will not start. This is worse than it was before where I could at least take pictures (but not video).
 
 **DONE!!**  
